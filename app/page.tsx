@@ -1,8 +1,6 @@
 'use client'
 
 import Image from "next/image";
-import { db } from "./FirseBaseConfig"
-//import { collection, addDoc } from "firebase/firestore";
 import Link from "next/link";
 
 export default function Home() {
